@@ -21,8 +21,6 @@ This project demonstrates modern backend architecture, JWT-based authentication,
 - 📥 CSV Report Download  
 - 🗄️ SQLite Database Integration  
 
----
-
 ## 🛠️ Tech Stack  
 
 ### 🔹 Backend  
