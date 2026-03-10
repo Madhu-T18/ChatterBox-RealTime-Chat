@@ -109,7 +109,7 @@ python run.py
 
 Backend will run at:  
 
-```
+command:
 http://127.0.0.1:8000
 ```
 
