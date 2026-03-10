@@ -7,8 +7,6 @@ It supports secure authentication, instant messaging, automated moderation, and 
 
 This project demonstrates modern backend architecture, JWT-based authentication, and real-time communication handling.
 
----
-
 ## ✨ Features  
 
 - 🔐 User Registration & Login  
@@ -36,8 +34,6 @@ This project demonstrates modern backend architecture, JWT-based authentication,
 - CSS3  
 - JavaScript  
 - Fetch API  
-
----
 
 ## 📂 Project Structure  
 
@@ -102,9 +98,6 @@ CHATTERBOX/
 git clone https://github.com/siddhi240900/ChatterBox-RealTime-Chat.git
 cd ChatterBox-RealTime-Chat
 ```
-
----
-
 ### 🔹 2️⃣ Backend Setup  
 
 ```bash
@@ -120,7 +113,6 @@ Backend will run at:
 http://127.0.0.1:8000
 ```
 
----
 
 ### 🔹 3️⃣ Frontend Setup  
 
